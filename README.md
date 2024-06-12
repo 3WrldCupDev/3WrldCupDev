@@ -30,9 +30,3 @@ When I'm not coding, you can find me exploring nature or working on my photograp
 🤝 Let's Connect
 Feel free to check out my repositories, contribute to my projects, or just drop a message to say hi! Let's collaborate and create something amazing together.
 
-                                                                                    ----------------------------------------------
-                                                                        
-                                                                        Visit SunnyPlace Studio | Follow Me on Twitter | Connect on LinkedIn
-
-                                                                                    ----------------------------------------------
-
