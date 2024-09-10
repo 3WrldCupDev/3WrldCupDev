@@ -4,7 +4,7 @@
 
 🚀 About Me
 
-Hey there! I'm Nick🤪, a passionate web designer and developer who loves turning ideas into beautiful, functional websites. At SunnyPlace Studio, we bring sunshine to the digital world with our innovative designs and seamless user experiences.
+Hey there! I'm Karlo🤪, a passionate web designer and developer who loves turning ideas into beautiful, functional websites. At SunnyPlace Studio, we bring sunshine to the digital world with our innovative designs and seamless user experiences.
 
 🌟 What I Do
 - Web Design & Development: Crafting pixel-perfect websites that are not only visually appealing but also user-friendly.
