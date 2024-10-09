@@ -4,7 +4,7 @@ What's up ?
 
 🚀 About Me
 
-Hey there! I'm Karlo🤪, a passionate product designer who loves turning ideas into beautiful, functional websites. At SunnyPlace Studio, we bring sunshine to the digital world with our innovative designs and seamless user experiences.
+Hey there! I'm Karlo🤪, a passionate UX/UI designer who loves turning ideas into beautiful and functional websites. At SunnyPlace Studio, we bring sunshine to the digital world with our innovative designs and seamless user experiences.
 
 🌟 What I Do
 - UX/UI Design processes with user centered design preference
@@ -18,9 +18,10 @@ Hey there! I'm Karlo🤪, a passionate product designer who loves turning ideas 
 - Tech Experiments: Experimenting with new technologies and pushing the boundaries of what's possible on the web.
 
 🎨 My Toolbox
-- Languages: HTML, CSS, JavaScript, C#, typescript, python, 
+- Languages: HTML, CSS, JavaScript, C#, typescript, python
 - Frameworks: React, Angular, Node.js, Astro
 - Design: Figma
+- Management: Trello, Notion, Slack
 
 🌱 Always Learning
 I believe in continuous growth and am always exploring new technologies, tools, and techniques to improve my craft and deliver the best results for my clients and projects.
@@ -28,6 +29,7 @@ I believe in continuous growth and am always exploring new technologies, tools, 
 ✨ Fun Facts
 I love animations and soft interactions!
 When I'm not coding, you can find me exploring new design concepts or gaming.
+
 🤝 Let's Connect
 Feel free to check out my repositories, contribute to my projects, or just drop a message to say hi! Let's collaborate and create something amazing together.
 
